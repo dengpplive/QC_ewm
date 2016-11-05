@@ -1,0 +1,10 @@
+C:\Users\acer\Desktop\EWM_App\QC_ewm\QC_ewm\obj\Debug\QC_ewm.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\EWM_App\QC_ewm\QC_ewm\obj\Debug\EWMCode.Form1.resources
+C:\Users\acer\Desktop\EWM_App\QC_ewm\QC_ewm\obj\Debug\QC_ewm.Properties.Resources.resources
+C:\Users\acer\Desktop\EWM_App\QC_ewm\QC_ewm\obj\Debug\QC_ewm.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\EWM_App\QC_ewm\QC_ewm\bin\Debug\QC_ewm.exe
+C:\Users\acer\Desktop\EWM_App\QC_ewm\QC_ewm\bin\Debug\QC_ewm.pdb
+C:\Users\acer\Desktop\EWM_App\QC_ewm\QC_ewm\bin\Debug\QuickMark.dll
+C:\Users\acer\Desktop\EWM_App\QC_ewm\QC_ewm\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\acer\Desktop\EWM_App\QC_ewm\QC_ewm\obj\Debug\QC_ewm.exe
+C:\Users\acer\Desktop\EWM_App\QC_ewm\QC_ewm\obj\Debug\QC_ewm.pdb
